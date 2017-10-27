@@ -9,10 +9,10 @@
     <div id="f1_container">
       <div id="f1_card" class="shadow">
         <div class="front face">
-          <img src="/images/Cirques.jpg"/>
+          <img src="https://previews.123rf.com/images/alhovik/alhovik1307/alhovik130700018/20751296-Scallop-seashell-Stock-Vector-shell.jpg" width="304" height="304"/>
         </div>
         <div class="back face">
-          <img src="/images/Cirques.jpg"/>
+          <img src="https://previews.123rf.com/images/alhovik/alhovik1307/alhovik130700018/20751296-Scallop-seashell-Stock-Vector-shell.jpg" width="304" height="304"/>
         </div>
       </div>
     </div>
@@ -59,9 +59,9 @@ a {
 }
 #f1_container {
   position: relative;
-  margin: 10px auto;
-  width: 450px;
-  height: 281px;
+  margin: 0px auto;
+  width: 304px;
+  height: 304px;
   z-index: 1;
 }
 #f1_container {
