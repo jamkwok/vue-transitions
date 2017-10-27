@@ -6,14 +6,14 @@
     <transition name="fade">
       <p v-if="show" style="font-size:300%;">hello</p>
     </transition>
-  </div>
-  <div id="f1_container">
-    <div id="f1_card" class="shadow">
-      <div class="front face">
-        <img src="/images/Cirques.jpg"/>
-      </div>
-      <div class="back face">
-        <img src="/images/Cirques.jpg"/>
+    <div id="f1_container">
+      <div id="f1_card" class="shadow">
+        <div class="front face">
+          <img src="/images/Cirques.jpg"/>
+        </div>
+        <div class="back face">
+          <img src="/images/Cirques.jpg"/>
+        </div>
       </div>
     </div>
   </div>
