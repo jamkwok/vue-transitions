@@ -11,8 +11,9 @@
         <div class="front face">
           <img src="https://previews.123rf.com/images/alhovik/alhovik1307/alhovik130700018/20751296-Scallop-seashell-Stock-Vector-shell.jpg" width="304" height="304"/>
         </div>
-        <div class="back face">
-          <img src="https://previews.123rf.com/images/alhovik/alhovik1307/alhovik130700018/20751296-Scallop-seashell-Stock-Vector-shell.jpg" width="304" height="304"/>
+        <div class="back face center">
+          <p>This is nice for exposing more information about an image.</p>
+          <p>Any content can go here.</p>
         </div>
       </div>
     </div>
